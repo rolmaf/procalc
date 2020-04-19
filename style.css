@@ -1,0 +1,18 @@
+.all {
+    width: 370px;
+    border: 8px solid black;
+}
+button {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+}
+input {
+    margin: 10px;
+    width: 330px;
+    height: 30px;
+}
+button:hover {
+    background-color: cornflowerblue;
+}
