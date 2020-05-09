@@ -1,5 +1,5 @@
 .all {
-    width: 370px;
+    width: 390px;
     border: 8px solid black;
 }
 button {
@@ -15,4 +15,15 @@ input {
 }
 button:hover {
     background-color: cornflowerblue;
+}
+.logo-navbar {
+    width: 40px;
+    transition: 1s;
+}
+.logo-navbar:hover {
+    transition: 1s;
+    transform: rotate(360deg)
+}
+.navbar {
+    font-size: 12pt;
 }
